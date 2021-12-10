@@ -1,0 +1,16 @@
+D:\Universitate\Anul-III\Inginerie Software\Probleme\AirportControl\AirportControl\bin\Debug\net5.0\AirportControl.exe
+D:\Universitate\Anul-III\Inginerie Software\Probleme\AirportControl\AirportControl\bin\Debug\net5.0\AirportControl.deps.json
+D:\Universitate\Anul-III\Inginerie Software\Probleme\AirportControl\AirportControl\bin\Debug\net5.0\AirportControl.runtimeconfig.json
+D:\Universitate\Anul-III\Inginerie Software\Probleme\AirportControl\AirportControl\bin\Debug\net5.0\AirportControl.runtimeconfig.dev.json
+D:\Universitate\Anul-III\Inginerie Software\Probleme\AirportControl\AirportControl\bin\Debug\net5.0\AirportControl.dll
+D:\Universitate\Anul-III\Inginerie Software\Probleme\AirportControl\AirportControl\bin\Debug\net5.0\ref\AirportControl.dll
+D:\Universitate\Anul-III\Inginerie Software\Probleme\AirportControl\AirportControl\bin\Debug\net5.0\AirportControl.pdb
+D:\Universitate\Anul-III\Inginerie Software\Probleme\AirportControl\AirportControl\obj\Debug\net5.0\AirportControl.csproj.AssemblyReference.cache
+D:\Universitate\Anul-III\Inginerie Software\Probleme\AirportControl\AirportControl\obj\Debug\net5.0\AirportControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universitate\Anul-III\Inginerie Software\Probleme\AirportControl\AirportControl\obj\Debug\net5.0\AirportControl.AssemblyInfoInputs.cache
+D:\Universitate\Anul-III\Inginerie Software\Probleme\AirportControl\AirportControl\obj\Debug\net5.0\AirportControl.AssemblyInfo.cs
+D:\Universitate\Anul-III\Inginerie Software\Probleme\AirportControl\AirportControl\obj\Debug\net5.0\AirportControl.csproj.CoreCompileInputs.cache
+D:\Universitate\Anul-III\Inginerie Software\Probleme\AirportControl\AirportControl\obj\Debug\net5.0\AirportControl.dll
+D:\Universitate\Anul-III\Inginerie Software\Probleme\AirportControl\AirportControl\obj\Debug\net5.0\ref\AirportControl.dll
+D:\Universitate\Anul-III\Inginerie Software\Probleme\AirportControl\AirportControl\obj\Debug\net5.0\AirportControl.pdb
+D:\Universitate\Anul-III\Inginerie Software\Probleme\AirportControl\AirportControl\obj\Debug\net5.0\AirportControl.genruntimeconfig.cache
